@@ -1,0 +1,3 @@
+echo "node_modules/" >> .gitignore
+.codegpt
+node_modules
